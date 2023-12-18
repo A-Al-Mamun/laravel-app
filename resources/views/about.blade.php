@@ -8,5 +8,7 @@
 </head>
 <body>
     <h1>About section Page</h1>
+    <a href="/">Welcome</a>
+    <a href="{{ route('mypost') }}">Post</a>
 </body>
 </html>
